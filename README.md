@@ -1,4 +1,4 @@
-# eatmans-admin
+# xiaoj-fe
 
 ## Project setup
 ```

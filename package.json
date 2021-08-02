@@ -1,5 +1,5 @@
 {
-  "name": "eatmans-admin",
+  "name": "xiaoj-fe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,7 +34,10 @@
     "less-loader": "^5.0.0",
     "lint-staged": "^9.5.0",
     "vue-cli-plugin-element": "~1.0.1",
-    "vue-template-compiler": "^2.6.11"
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack-bundle-analyzer": "^3.0.3"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
